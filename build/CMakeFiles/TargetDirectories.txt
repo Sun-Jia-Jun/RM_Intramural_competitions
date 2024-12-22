@@ -1,0 +1,3 @@
+/home/sun/code/rm/build/CMakeFiles/main.dir
+/home/sun/code/rm/build/CMakeFiles/edit_cache.dir
+/home/sun/code/rm/build/CMakeFiles/rebuild_cache.dir
